@@ -1,7 +1,7 @@
 ﻿using System.Text;
 
 
-namespace C__ders2
+namespace task1
 {
     internal class task
     {
